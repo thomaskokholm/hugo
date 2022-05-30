@@ -1,5 +1,5 @@
 ---
-title: Building the new a Hopper.com in 2018
+title: Building the new a s Hopper.com in 2018
 date: 2018-04-31
 hero: "/images/hero-2.jpg"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
